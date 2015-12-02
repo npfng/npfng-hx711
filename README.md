@@ -1,5 +1,7 @@
 # NPFNG HX711
 
+**The code is not functional yet!**
+
 HX711 plugin for [npfng](http://npfng.com). Make your bathroom scale a smart (aka with wifi) scale.
 
 ## Required hardware
